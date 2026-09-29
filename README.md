@@ -11,6 +11,10 @@ A bar above the game counts collected diamonds, green checks and red X marks.
 Boards 8×8 (20 diamonds), 10×10 (30) and 12×12 (45) are detected automatically,
 on any screen resolution.
 
+<p align="center">
+  <img src="screenshot.webp" width="300" alt="Tidemyst Haven over the game: a 10×10 board with a green check, red X marks and the counter bar at the top">
+</p>
+
 **[⬇ Download the latest APK](https://github.com/Thashar/tidemyst-haven/releases/latest/download/tidemyst-haven.apk)**
 · [all versions](https://github.com/Thashar/tidemyst-haven/releases)
 
@@ -65,4 +69,4 @@ i nic nie jest nigdzie wysyłane.
 
 ---
 
-Created by Thashar (Polski Squad) · [thashar.dev](https://thashar.dev)
+Created by Thashar (Polski Squad)
